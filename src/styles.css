@@ -1,0 +1,15 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html, body {
+  margin: 0;
+}
+
+mat-card {
+  margin: 15px 0;
+  width: 20%;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
